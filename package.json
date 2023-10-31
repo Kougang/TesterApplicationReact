@@ -1,0 +1,19 @@
+{
+  "name": "exempletest",
+  "version": "1.0.0",
+  "description": "ceci est un repertoir de test des applications react, l'on utilise jest pour le test, ces fichier sont realiser en utilisant la video 28 de grafikart le youtubeur sur le test d'une application react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kougang/TesterApplicationReact.git"
+  },
+  "author": "SOPJIO",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kougang/TesterApplicationReact/issues"
+  },
+  "homepage": "https://github.com/Kougang/TesterApplicationReact#readme"
+}
